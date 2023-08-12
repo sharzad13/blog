@@ -1,5 +1,5 @@
 .page-header {
-    background-color: #c587d4;
+    background-color: #c074ff;
     margin-top: 0;
     margin-bottom: 40px;
     padding: 20px 20px 20px 40px;
@@ -9,7 +9,7 @@
 .page-header h1 a,
 .page-header h1 a:visited,
 .page-header h1 a:active {
-    color: #c1f8ff;
+    color: #78c9ff;
     font-size: 36pt;
     text-decoration: none;
 }
@@ -22,7 +22,7 @@ h4 {
 }
 
 .date {
-    color: #ab45ff;
+    color: #0d2964;
 }
 
 .save {
